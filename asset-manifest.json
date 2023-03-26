@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reactlive/static/css/main.606b5cf0.css",
+    "main.js": "/reactlive/static/js/main.567a94f6.js",
+    "static/media/world-1992.mp4": "/reactlive/static/media/world-1992.d8aa0ab5b035de226280.mp4",
+    "index.html": "/reactlive/index.html",
+    "main.606b5cf0.css.map": "/reactlive/static/css/main.606b5cf0.css.map",
+    "main.567a94f6.js.map": "/reactlive/static/js/main.567a94f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.606b5cf0.css",
+    "static/js/main.567a94f6.js"
+  ]
+}
